@@ -1,1 +1,1 @@
-# Data-Science-ML-Practice
+*Vector quantization
