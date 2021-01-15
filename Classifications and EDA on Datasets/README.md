@@ -20,5 +20,5 @@ Dataset can be found [here](https://www.kaggle.com/uciml/pima-indians-diabetes-d
 - Cleaned, Visualized and analyzed PIMA Indian dataset.
 - Performed bivariate and univariate analyses on features and generated features based on the analysis.
 - Further features were generated based on the hypothesis.
-- Models were optimized on F1 score. F1 score of .81 and accuracy 74% is obtained by Random Forest.
+- Models were optimized on F1 score. F1 score of 81% and accuracy 74% is obtained by Random Forest.
 - Attributes affecting Diabetes were predicted through Decision Tree-based approach.
