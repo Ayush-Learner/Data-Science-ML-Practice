@@ -5,7 +5,7 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 
 
 ## Description
-_ Exhaustive EDA is done. Both univariate and multivariate. 
+-Exhaustive EDA is done. Both univariate and multivariate. 
 
 
 
