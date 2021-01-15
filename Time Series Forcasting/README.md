@@ -1,1 +1,4 @@
-
+- Bidirectional LSTM is tried to predict pollution level based on other timeseires like temperature, Humidity, Dew etc
+- Multiple time lags were tried but single time lag was giving best result.
+- .76 MAE is obtained for single lag while for multiple lag(3 lags) 1.76 MAE is obtained.
+- Poor MAE can be attributed to overfitting.
