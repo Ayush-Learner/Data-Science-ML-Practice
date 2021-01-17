@@ -8,4 +8,4 @@ Dataset used is [here](https://drive.google.com/drive/folders/1rpPgQ9TmG99eQ22Rh
 - Sequence of images are fed in to network.
 - genertaed density output is passed through Hough Transform to generate lines.
 - Possible lines are filtered out and nearby lines are clustered (using K-Means) to obtain smooth output. 
-![alt text](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/mean_hough_lines_alt_10.jpgraw=true)
+![alt text](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/mean_hough_lines_alt_10.jpg)
