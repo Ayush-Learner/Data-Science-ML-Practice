@@ -15,3 +15,13 @@ Dataset used is [here](https://drive.google.com/drive/folders/1rpPgQ9TmG99eQ22Rh
 ![Line detection](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/Multiple_hough_lines.jpg)
 ![Final output](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/mean_hough_lines_alt_10.jpg)
 ![Ground truth](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/gt_alt_10.PNG)
+
+# Network Architecture and training
+- Encoder Decoder based architecture is adopted with VGG16 weights trained on imagenet dataset.
+- To hold temporal data 2 Layers Conv-LSTM units were used.
+- As data was highly unbalanced, weighted cross-entropy loss was used with adam optimizer.
+- Different training strategies involving # of sequence, Loss function, Optimzer, strides in sequences and even different weights were also tried.
+- The best performance was obtained for weight [1,.4], Adam optimzer, 5 numbers of sequence with stride of 1.
+- Pixel wise accuracy of 98% is obtained but still lagging in F1 metrics with 32%.
+
+# Results
