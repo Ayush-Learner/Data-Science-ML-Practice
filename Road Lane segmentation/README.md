@@ -24,4 +24,12 @@ Dataset used is [here](https://drive.google.com/drive/folders/1rpPgQ9TmG99eQ22Rh
 - The best performance was obtained for weight [1,.4], Adam optimzer, 5 numbers of sequence with stride of 1.
 - Pixel wise accuracy of 98% is obtained but still lagging in F1 metrics with 32%.
 
+
+# TODO
+- Increase F1 score.
+- Reduce # of parameters to increase fps.
+
 # Results
+
+![Ground truth](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/98%25%20accuracy.png)
+
