@@ -25,10 +25,7 @@ Dataset used is [here](https://drive.google.com/drive/folders/1rpPgQ9TmG99eQ22Rh
 - Pixel wise accuracy of 98% is obtained but still lagging in F1 metrics with 32%.
 
 
-# TODO
-- Increase F1 score.
-- Reduce # of parameters to increase fps.
-- Real life implementation using kalman filter.
+
 
 # Results
 
@@ -39,3 +36,7 @@ Results are shown without post processing.
 ## Bad results
 ![98%](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/download.png)
 
+# TODO
+- Increase F1 score.
+- Reduce # of parameters to increase fps.
+- Real life implementation using kalman filter.
