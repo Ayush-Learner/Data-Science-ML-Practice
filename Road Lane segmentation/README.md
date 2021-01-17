@@ -31,5 +31,7 @@ Dataset used is [here](https://drive.google.com/drive/folders/1rpPgQ9TmG99eQ22Rh
 
 # Results
 
+Results are shown without post processing.
+
 ![Ground truth](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/98%25%20accuracy.png)
 
