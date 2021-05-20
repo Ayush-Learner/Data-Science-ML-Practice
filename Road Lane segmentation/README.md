@@ -1,4 +1,4 @@
-This Project is adapted from [here](https://github.com/qinnzou/Robust-Lane-Detection).
+<!-- This Project is adapted from [here](https://github.com/qinnzou/Robust-Lane-Detection). -->
 
 # Project Description
 Target of this project is to detect road lanes using sequence of image data from car cam. Sequence of image is fed in to network and binary pixel image is obtained as output. pizel with value 0 is background and rest is lane.
