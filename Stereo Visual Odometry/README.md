@@ -22,5 +22,8 @@ In reults we show results obtained for each frame-by-frame computation.
 ![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/mean%20reprojection%20error.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/median%20reprojection%20error.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/fittinng%20cost.png)
 
 ## Forward motion
+| Forward Motion | Zoomed Forward Motion |
+:------:|:-------:
+![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/forward%20motion.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/zoomed%20forward.png)
 ## Sideways motion
 ## Steering motion
