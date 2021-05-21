@@ -26,4 +26,10 @@ In reults we show results obtained for each frame-by-frame computation.
 :------:|:-------:
 ![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/forward%20motion.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/zoomed%20forward.png)
 ## Sideways motion
+| Sideways Motion | Zoomed Sideways Motion |
+:------:|:-------:
+![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/sideways%20motion.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/zoomed%20left%20right.png)
 ## Steering motion
+| Steering Motion | Zoomed Steering Motion |
+:------:|:-------:
+![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/steering%20angle.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/zoomed%20steering.png)
