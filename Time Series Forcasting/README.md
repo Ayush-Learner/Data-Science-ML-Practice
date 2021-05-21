@@ -7,20 +7,21 @@
 a
 
 ## Results from Single Lag
-![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20single%20lag.png)
+|![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20single%20lag.png)|
+|:--:| 
+|*Train Loss* |
 
-*Train Loss*
-![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20single%20lag.png)
-
-*Prediction*
+|![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20single%20lag.png)|
+|:--:| 
+|*Prediction*|
 
 ## Results from Multiple Lag
-![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20multiple%20lag.png)
-
-*Train Loss*
-![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20multiple%20lag.png)
-
-*Prediction*
+|![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20multiple%20lag.png)|
+|:--:| 
+|*Train Loss*|
+|![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20multiple%20lag.png)|
+|:--:| 
+|*Prediction*|
 
 
 ## Summary
