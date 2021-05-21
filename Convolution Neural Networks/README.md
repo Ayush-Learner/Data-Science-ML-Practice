@@ -13,5 +13,5 @@
 
 # Different regualrizartion techniques in CNN and their effect on performance
 - Demonstrates the effect of normlaization technique like Batch Norm, Dropout on convergence and accuracy
-- Effect of increasinglayer is also tried on basic model.
+- Effect of increasing layer is also tried on basic model.
 - Effect of changing kernal size, Data Augmentation, adding momemntumn term to optimizer is also tried here.
