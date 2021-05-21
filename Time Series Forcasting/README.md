@@ -7,17 +7,24 @@
 a
 
 ## Results from Single Lag
-Classifier    |    F1 Score   |   Accuracy    |      AP      |
-------------- | ------------- | ------------- | -------------| 
-XG Boost  | 87.46  | 82.1  | 0.78 |
-Random Forest  | 86.13  | 81.77  | 0.76 |
-Gradient Boosting  | 85.8  | 81.73  | 0.79 |
-Decision Tree | 85.63  | 80.24  | 0.63 |
-SVM  | 84.65  | 79.58  |  |
-Logistic Regression  | 79.86  | 77.54  | 0.69 |
+![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20single%20lag.png)
+
+*Train Loss*
+![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20single%20lag.png)
+
+*Prediction*
 
 ## Results from Multiple Lag
 ![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20multiple%20lag.png)
+
 *Train Loss*
 ![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20multiple%20lag.png)
+
 *Prediction*
+
+
+## Summary
+Lag    |    Training Loss   |   Prediction MAE    |
+------------- | ------------- | ------------- | 
+Single Lag  | 0.069  | 0.76  |
+Multiple Lag  | 0.067  | 1.70  |
