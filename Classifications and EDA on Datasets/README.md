@@ -15,9 +15,12 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 ## Best Results by classifiers
 Classifier    |    F1 Score   |   Accuracy    |      AP      |
 ------------- | ------------- | ------------- | -------------| 
-Content Cell  | Content Cell  | Content Cell  | Content Cell |
-Content Cell  | Content Cell  | Content Cell  | Content Cell |
-
+XG Boost  | Content Cell  | Content Cell  | Content Cell |
+Random Forest  | Content Cell  | Content Cell  | Content Cell |
+Gradient Boosting  | Content Cell  | Content Cell  | Content Cell |
+Decision Tree | Content Cell  | Content Cell  | Content Cell |
+SVM  | Content Cell  | Content Cell  | Content Cell |
+Logistic Regression  | Content Cell  | Content Cell  | Content Cell |
 
 # PIMA india dataset analysis and prediction
 ## About Data Set
