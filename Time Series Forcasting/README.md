@@ -4,8 +4,7 @@
 - Multiple time lags were tried but single time lag was giving best result.
 - .76 MAE is obtained for single lag while for multiple lag(3 lags) 1.76 MAE is obtained.
 - Poor MAE can be attributed to overfitting.
-
-![Input](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Road%20Lane%20segmentation/Images/input_alt_10.PNG)
+a
 
 ## Results from Single Lag
 Classifier    |    F1 Score   |   Accuracy    |      AP      |
@@ -19,4 +18,6 @@ Logistic Regression  | 79.86  | 77.54  | 0.69 |
 
 ## Results from Multiple Lag
 ![Train Loss](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/Train%20loss%20for%20multiple%20lag.png)
+*Train Loss*
 ![Prediction](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Time%20Series%20Forcasting/Image/prediction%20for%20multiple%20lag.png)
+*Prediction*
