@@ -15,15 +15,12 @@ In this project visual odometry is implmented using stereo vision. Stereo Vision
 -- Obtained motion matrix is compunded for each sequence to obtain final pose.
 # Results
 In reults we show results obtained for each frame-by-frame computation.
-## Mean Reprojection error
-### Forward motion
+## Mean & Median Reprojection error and Fitting Cost
 
-### Forward motion
+| Mean reprojection error | Median reprojection error | Fitiing Cost |
+:-----:------:------:
+![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/mean%20reprojection%20error.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/median%20reprojection%20error.png)|![](https://github.com/Ayush-Learner/Data-Science-ML-Practice/blob/master/Stereo%20Visual%20Odometry/Images/fittinng%20cost.png)
 
-
-### Forward motion
-## Median Reprojection error
-## Fitting Cost
 ## Forward motion
 ## Sideways motion
 ## Steering motion
