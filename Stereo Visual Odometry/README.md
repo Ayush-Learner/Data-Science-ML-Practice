@@ -14,7 +14,7 @@ In this project visual odometry is implmented using stereo vision. Stereo Vision
 -- A version of RANSAC was tried to further eliminate feature was tried on above step, to bring reprojection error below threshold but it was making computation less and less real time.
 -- Obtained motion matrix is compunded for each sequence to obtain final pose.
 # Results
-In reults we show results obtained for each frame-by-frame computation.
+In reults we show results obtained for each frame-by-frame computation. Reprojection cost is well below below threshold which was 7 pixel. Same goes for fitting cost except around 400 pixel. Looking back in to data suggests this scene had high dynamics which might be reason of such behaviour. Similar behaviour around 400 pixel is observed in forward, steering and sideways motion graph. Otherwise these graphs show values which makes sense. 
 ## Mean & Median Reprojection error and Fitting Cost
 
 | Mean reprojection error | Median reprojection error | Fitiing Cost |
