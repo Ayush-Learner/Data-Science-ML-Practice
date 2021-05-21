@@ -12,7 +12,7 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 - As data set was highly imbalnced, different test and traininh ratio were tried in combination with under sampling and over sampling.
 - XGBOOST with F1 score of 87% and accuracy of 81% was chosen as final model.
 
-## Best Results for each classifier classifiers
+## Best Results for each classifier
 Classifier    |    F1 Score   |   Accuracy    |      AP      |
 ------------- | ------------- | ------------- | -------------| 
 XG Boost  | 87.46  | 82.1  | 0.78 |
@@ -35,7 +35,7 @@ Dataset can be found [here](https://www.kaggle.com/uciml/pima-indians-diabetes-d
 
 
 
-## Best Results for each classifier classifiers
+## Best Results for each classifier
 Classifier    |    F1 Score   |   Accuracy    |      AP      |
 ------------- | ------------- | ------------- | -------------| 
 Random Forest  | 87.68  | 74.67  | 0.68 |
