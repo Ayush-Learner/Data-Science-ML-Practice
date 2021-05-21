@@ -12,15 +12,15 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 - As data set was highly imbalnced, different test and traininh ratio were tried in combination with under sampling and over sampling.
 - XGBOOST with F1 score of 87% and accuracy of 81% was chosen as final model.
 
-## Best Results by classifiers
+## Best Results for each classifier classifiers
 Classifier    |    F1 Score   |   Accuracy    |      AP      |
 ------------- | ------------- | ------------- | -------------| 
-XG Boost  | Content Cell  | Content Cell  | Content Cell |
-Random Forest  | Content Cell  | Content Cell  | Content Cell |
-Gradient Boosting  | Content Cell  | Content Cell  | Content Cell |
-Decision Tree | Content Cell  | Content Cell  | Content Cell |
-SVM  | Content Cell  | Content Cell  | Content Cell |
-Logistic Regression  | Content Cell  | Content Cell  | Content Cell |
+XG Boost  | 87.46  | 82.1  | 0.78 |
+Random Forest  | 86.13  | 81.77  | 0.76 |
+Gradient Boosting  | 85.8  | 81.73  | 0.79 |
+Decision Tree | 85.63  | 80.24  | 0.63 |
+SVM  | 84.65  | 79.58  |  |
+Logistic Regression  | 79.86  | 77.54  | 0.69 |
 
 # PIMA india dataset analysis and prediction
 ## About Data Set
@@ -32,3 +32,15 @@ Dataset can be found [here](https://www.kaggle.com/uciml/pima-indians-diabetes-d
 - Further features were generated based on the hypothesis.
 - Models were optimized on F1 score. F1 score of 81% and accuracy 74% is obtained by Random Forest.
 - Attributes affecting Diabetes were predicted through Decision Tree-based approach.
+
+
+
+## Best Results for each classifier classifiers
+Classifier    |    F1 Score   |   Accuracy    |      AP      |
+------------- | ------------- | ------------- | -------------| 
+Random Forest  | 87.68  | 74.67  | 0.68 |
+SVM  | 86.86  | 71.42  |  |
+XG Boost  | 86.8  | 72.72  | 0.68 |
+Gradient Boosting  | 86.3  | 72.72  | 0.7 |
+Decision Tree | 80.4  | 77.27  | 0.6 |
+Logistic Regression  | 77.31  | 76.62  | 0.75 |
