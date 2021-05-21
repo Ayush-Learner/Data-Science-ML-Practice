@@ -12,6 +12,13 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 - As data set was highly imbalnced, different test and traininh ratio were tried in combination with under sampling and over sampling.
 - XGBOOST with F1 score of 87% and accuracy of 81% was chosen as final model.
 
+## Best Results by classifiers
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
 # PIMA india dataset analysis and prediction
 ## About Data Set
 Dataset can be found [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database). It is a multivariate problem with binary classification task to predict whether Diabetic or not.Dataset contains some 900-100 datapoints with continuous independent variables like Blood Pressure, Age and Categorical are like # of Pregnency.
