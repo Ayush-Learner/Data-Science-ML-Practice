@@ -41,6 +41,6 @@ Classifier    |    F1 Score   |   Accuracy    |      AP      |
 Random Forest  | 87.68  | 74.67  | 0.68 |
 SVM  | 86.86  | 71.42  |  |
 XG Boost  | 86.8  | 72.72  | 0.68 |
-Gradient Boosting  | 86.3  | 72.72  | 0.7 |
-Decision Tree | 80.4  | 77.27  | 0.6 |
-Logistic Regression  | 77.31  | 76.62  | .75 |
+Gradient Boosting  | 86.3  | 72.72  | 0.70 |
+Decision Tree | 80.4  | 77.27  | 0.60 |
+Logistic Regression  | 77.31  | 76.62  | 0.75 |
