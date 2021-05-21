@@ -13,10 +13,10 @@ The task is to predict income flag (<=50k,>50k) based on features like gender, r
 - XGBOOST with F1 score of 87% and accuracy of 81% was chosen as final model.
 
 ## Best Results by classifiers
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Classifier    |    F1 Score   |   Accuracy    |      AP      |
+------------- | ------------- | ------------- | -------------| 
+Content Cell  | Content Cell  | Content Cell  | Content Cell |
+Content Cell  | Content Cell  | Content Cell  | Content Cell |
 
 
 # PIMA india dataset analysis and prediction
