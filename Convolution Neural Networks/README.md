@@ -9,7 +9,7 @@
 - Image patches were clustered into 2500 clusters using a hierarchical clustering method.
 - For each image, a histogram based on cluster indices is created.
 - This step is similar to Final connected layer of CNN which has thousands of parameters.
-- This histogram is fed to RandomForest and Naive Bayes.
+- Created histogram is fed to RandomForest and Naive Bayes.
 - For CNN above step has softmax as classifier.
 - 94% accuracy was achieved with Naive Bayes while a simple but computationally complex CNN reached 97%.
 
